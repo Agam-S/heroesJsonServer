@@ -4,7 +4,7 @@
     { "hid": 1, "hname":"Fosters","minvalue":2, "maxvalue": 3, "uses": 2},
     { "hid": 2, "hname":"MrFosters","minvalue":2, "maxvalue": 3, "uses": 2},
     { "hid": 3, "hname":"Mr Swinburne","minvalue":2, "maxvalue": 3, "uses": 3},
-    { "hid": 4, "hname":"Big Brain","minvalue":2, "maxvalue": 3, "uses": 4},
+    { "hid": 4, "hname":"Big Brain","minvalue":2, "maxvalue": 3, "uses": 4}
   ],
   "profile": {
     "name": "Agam-S"
