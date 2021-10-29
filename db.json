@@ -6,6 +6,15 @@
     { "hid": 3, "hname":"Mr Swinburne","minvalue":2, "maxvalue": 3, "uses": 3},
     { "hid": 4, "hname":"Big Brain","minvalue":2, "maxvalue": 3, "uses": 4}
   ],
+   "Villain" : [
+    { "VillainID": 1, "vName":"Fosters","hitPoints":2},
+     { "VillainID": 2, "vName":"Fosters","hitPoints":4},
+     { "VillainID": 3, "vName":"Fosters","hitPoints":6}
+  ],
+   "Game" : [
+    { "GAMEID": 1, "GAMETIME":"21/02/2021","WHOWON":"Villains Won"},
+     { "GAMEID": 2, "GAMETIME":"22/08/2021","WHOWON":"Heroes Won"}
+  ],
   "profile": {
     "name": "Agam-S"
   }
